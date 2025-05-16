@@ -50,11 +50,11 @@ Faça o download da collection Postman: bookmanager.postman_collection.json
 
 Importe no Postman: [BookManager API.postman_collection.json](https://github.com/thales32k0/BookManager/blob/main/BookManager%20API.postman_collection.json)
 
-Abra o Postman
+- Abra o Postman
 
-Clique em "Import"
+- Clique em "Import"
 
-Selecione o arquivo .json
+- Selecione o arquivo .json
 
 Você poderá testar todos os endpoints de forma rápida!
 
