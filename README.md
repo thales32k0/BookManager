@@ -86,10 +86,10 @@ Editar
 ---
 ## 📄 Licença
 Este projeto está sob a licença [MIT](LICENSE).
-  ## 👨‍💻 Autor
-
----
-
+ 
+ ---
+ 
+## 👨‍💻 Autor
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/89024257?v=4" width="100"/></td>
