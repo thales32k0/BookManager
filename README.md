@@ -66,7 +66,9 @@ Copiar
 Editar
 {
   "title": "Clean Code",
+  
   "author": "Robert C. Martin",
+  
   "publishedYear": 2008
 }
 
